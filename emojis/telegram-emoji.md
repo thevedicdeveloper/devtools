@@ -168,7 +168,7 @@ https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/beating
 |`thumbs-down`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/thumbs-down.gif"/>|
 |`thumbs-up`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/thumbs-up.gif"/>|
 |`victory-hand`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/victory-hand.gif"/>|
-|`vulcan-salute`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/vulcan-salute.gif"/>|
+|`vulcan-salute`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/vulcan-salute.gif" height=100/>|
 |`waving-hand`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif"/>|
 |`writing-hand`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/writing-hand.gif"/>|
 |`ear`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/ear.gif"/>|
