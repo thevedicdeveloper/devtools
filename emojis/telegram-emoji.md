@@ -204,16 +204,16 @@ https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/beating
 |`cherry-blossom`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/cherry-blossom.gif"/>|
 |`christmas-tree`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/christmas-tree.gif"/>|
 |`deciduous-tree`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/deciduous-tree.gif"/>|
-|`evergreen-tree`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/evergreen-tree.gif"/>|
+|`evergreen-tree`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/evergreen-tree.gif" height=100/>|
 |`herb`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/herb.gif"/>|
 |`hibiscus`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/hibiscus.gif"/>|
 |`palm-tree`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/palm-tree.gif"/>|
-|`seedling`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/seedling.gif"/>|
+|`seedling`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/seedling.gif" height=100/>|
 |`rose`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/rose.gif"/>|
 |`tulip`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/tulip.gif"/>|
 |`hatching-chick`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/hatching-chick.gif"/>|
 |`front-facing-baby-chick`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/front-facing-baby-chick.gif"/>|
-|`owl`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/owl.gif"/>|
+|`owl`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/owl.gif" heigh=100/>|
 |`see-no-evil-monke`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/see-no-evil-monke.gif"/>|
 |`speak-no-evil-monkey`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/speak-no-evil-monkey.gif"/>|
 |`spider`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/spider.gif"/>|
