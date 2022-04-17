@@ -143,7 +143,7 @@ https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/beating
 |`backhand-index-pointing-right`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/backhand-index-pointing-right.gif"/>|
 |`backhand-index-pointing-up`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/backhand-index-pointing-up.gif"/>|
 |`clapping-hands`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/clapping-hands.gif"/>|
-|`call-me-hand`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/call-me-hand.gif"/>|
+|`call-me-hand`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/call-me-hand.gif" height=100/>|
 |`crossed-fingers`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/crossed-fingers.gif"/>|
 |`flexed-biceps`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/flexed-biceps.gif"/>|
 |`folded-hands`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/folded-hands.gif"/>|
@@ -157,7 +157,7 @@ https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/beating
 |`ok-hand`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/ok-hand.gif"/>|
 |`oncoming-fist`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/oncoming-fist.gif" height=100/>|
 |`open-hands`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/open-hands.gif"/>|
-|`palms-up-together`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/palms-up-together.gif"/>|
+|`palms-up-together`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/palms-up-together.gif" height=100/>|
 |`pinching-hand`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/pinching-hand.gif"/>|
 |`pinched-fingers`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/pinched-fingers.gif"/>|
 |`raised-back-of-hand`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/raised-back-of-hand.gif"/>|
@@ -179,8 +179,8 @@ https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/beating
 |`kiss-woman-man`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/kiss-woman-man.gif"/>|
 |`man-shrugging`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/man-shrugging.gif"/>|
 |`person-shrugging`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/person-shrugging.gif"/>|
-|`man-dancing`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/man-dancing.gif"/>|
-|`woman-dancing`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/woman-dancing.gif"/>|
+|`man-dancing`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/man-dancing.gif" height=100/>|
+|`woman-dancing`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/woman-dancing.gif" height=100/>|
 |`man-health-worker`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/man-health-worker.gif"/>|
 |`woman-health-worker`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/woman-health-worker.gif"/>|
 |`woman-police-officer`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/woman-police-officer.gif"/>|
