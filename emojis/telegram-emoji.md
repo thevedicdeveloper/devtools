@@ -155,7 +155,7 @@ https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/beating
 |`love-you-gesture`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/love-you-gesture.gif"/>|
 |`middle-finger`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/middle-finger.gif"/>|
 |`ok-hand`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/ok-hand.gif"/>|
-|`oncoming-fist`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/oncoming-fist.gif"/>|
+|`oncoming-fist`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/oncoming-fist.gif" height=100/>|
 |`open-hands`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/open-hands.gif"/>|
 |`palms-up-together`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/palms-up-together.gif"/>|
 |`pinching-hand`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/pinching-hand.gif"/>|
