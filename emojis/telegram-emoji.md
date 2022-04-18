@@ -252,9 +252,9 @@ https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/beating
 |`last-quarter-moon`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/last-quarter-moon.gif"/>|
 |`new-moon`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/new-moon.gif"/>|
 |`waning-crescent-moon`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waning-crescent-moon.gif"/>|
-|`waxing-gibbous-moon`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waxing-gibbous-moon.gif"/>|
-|`waxing-crescent-moon`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waxing-crescent-moon.gif"/>|
-|`waxing-gibbous-moon`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waxing-gibbous-moon.gif"/>|
+|`waning-gibbous-moon`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waning-gibbous-moon.gif"/>|
+|`waning-crescent-moon`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waxing-crescent-moon.gif"/>|
+|`waning-gibbous-moon`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waxing-gibbous-moon.gif"/>|
 |`sun-with-face`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/sun-with-face.gif"/>|
 |`high-voltage`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/high-voltage.gif"/>|
 |`glowing-star`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/glowing-star.gif"/>|
