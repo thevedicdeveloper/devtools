@@ -1,10 +1,12 @@
 
 https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/beating-heart.gif
-`https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/<emoji-tag>.gif`
+```text
+https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/<emoji-tag>.gif
+```
 
 |`emoji-tag`|`emoji`|
 |---|---|
-|```anguished-face```|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/anguished-face.gif"/>|
+|`anguished-face`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/anguished-face.gif"/>|
 |`anxious-face-with-sweat`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/anxious-face-with-sweat.gif"/>|
 |`astonished-face`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/astonished-face.gif"/>|
 |`beaming-face-with-smiling-eyes`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/astonished-face.gif"/>|
