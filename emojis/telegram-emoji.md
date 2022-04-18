@@ -1,9 +1,7 @@
 
-https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/beating-heart.gif
 ```text
 https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/<emoji-tag>.gif
 ```
-
 |`emoji-tag`|`emoji`|
 |---|---|
 |`anguished-face`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/anguished-face.gif"/>|
