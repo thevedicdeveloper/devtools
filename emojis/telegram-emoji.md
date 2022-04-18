@@ -284,8 +284,8 @@ https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/beating
 |`roll-of-paper`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/roll-of-paper.gif"/>|
 |`soap`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/soap.gif"/>|
 |`sponge`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/sponge.gif"/>|
-|`syringe`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/syringe.gif"/>|
-|`syringe-the-second-option`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/syringe-the-second-option.gif"/>|
+|`syringe-with-blood`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/syringe-with-blood.gif"/>|
+|`syringe-with-water`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/syringe-with-water.gif"/>|
 |`artist-palette`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/artist-palette.gif"/>|
 |`balloon`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/balloon.gif"/>|
 |`video-game`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/video-game.gif"/>|
