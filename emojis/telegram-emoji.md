@@ -1,7 +1,23 @@
+These are the emojis that are publicaly made available by [Telegram](https://emojis.wiki/telegram/) team. 
 
-```text
-https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/<emoji-tag>.gif
+I have made it simple for you, so that you can easily embed these emoji to you GitHub readme profile. All you need to do is to follow the below steps:
+
+**STEP 1:** Copy and paste the below syntax to your Markdown file
+
 ```
+<img src"https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/<emoji-tag>.gif height="30" width="30" align="center" />
+```
+**STEP 2:** Replace `<emoji-tag>` with your preffered `emoji-tag` of choice form the ** below table**.
+
+**STEP 3:** Paste your profile in the comments to show of to the community 😂
+
+---
+## EMOJI TABLE
+
+🚨 Attention: Some of the emojis may look big, because it's not rendered properly by the DEV.
+
+🚨 When using in you GitHub profile, you can adjust the size using `height` and `weight` tags.
+
 |`emoji-tag`|`emoji`|
 |---|---|
 |`anguished-face`|<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/anguished-face.gif"/>|
