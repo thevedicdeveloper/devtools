@@ -1,5 +1,3 @@
-These are the emojis that are publicaly made available by [Telegram](https://emojis.wiki/telegram/) team. 
-
 I have made it simple for you, so that you can easily embed these emoji to you GitHub readme profile. All you need to do is to follow the below steps:
 
 **STEP 1:** Copy and paste the below syntax to your Markdown file
