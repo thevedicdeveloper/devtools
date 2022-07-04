@@ -1,8 +1,7 @@
 
 <h1 align="center"> Welcome To The DevTools </h1>
-Here you will a lot of web assests that will make you profile professional, creative and attractive.
-
-You can also contribute to this repository.. Enjoy !!
+Here you will a lot of web assests that will make you profile professional, creative and attractive. You can also contribute to this repository.. Enjoy !!
+<br>
 I have made it simple for you, so that you can easily embed these emoji to you GitHub readme profile. All you need to do is to follow the below steps:
 
 **STEP 1:** Copy and paste the below syntax to your Markdown file
